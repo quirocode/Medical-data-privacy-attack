@@ -57,4 +57,4 @@ Since Big Data management requires cloud reproducibility, you can run my entire 
 4. Paste your token into the initial configuration cell to trigger the automated direct download and decompression of the **Synthea COVID-19 100k Dataset**.
 5. Run all cells to replicate the analytical metrics and witness the 85.05% re-identification threshold.
 
-> ** Ethical Research Disclaimer:** This analytical study was conducted strictly using **100% high-fidelity synthetic data** generated via the open-source Synthea medical simulator framework. No real patient records, personal identifiable information (PII), or institutional healthcare infrastructure were compromised, accessed, or altered during this research.
+> **Ethical Research Disclaimer:** This analytical study was conducted strictly using **100% high-fidelity synthetic data** generated via the open-source Synthea medical simulator framework. No real patient records, personal identifiable information (PII), or institutional healthcare infrastructure were compromised, accessed, or altered during this research.
