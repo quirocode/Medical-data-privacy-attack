@@ -1,5 +1,6 @@
 # Healthcare Data Privacy Analysis: Breaking Anonymization with Google Colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/Medical-data-privacy-attack/blob/main/notebooks/linkage_attack_analysis.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Data%20Analysis-orange?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 [![Kaggle API](https://img.shields.io/badge/Kaggle-Dataset%20Source-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/)
